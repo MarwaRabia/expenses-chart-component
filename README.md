@@ -30,4 +30,4 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ## Deploying project
 
-- [Live site url](https://pages.github.com/)
+- [Live site url](https://expenses-chart-component-inky-tau.vercel.app/)
